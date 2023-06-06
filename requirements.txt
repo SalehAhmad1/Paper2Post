@@ -1,0 +1,6 @@
+langchain
+pywhatkit
+pyautogui
+requests
+bs4
+OpenAI
